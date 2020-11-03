@@ -36,7 +36,7 @@
 | **Save-Data: on**                           | Use Chrome extension downloadable with [Install Chrome Extensions](https://addons.opera.com/fr/extensions/details/install-chrome-extensions/) | [Link](https://chrome.google.com/webstore/detail/save-data-on/nholpkfnmjbinlhcfihkhiehdaohlibg)              | I didn't find an equivalence                                                                                                         |
 | **The Great Suspender**                     | [Tab Suspender (memory saver)](https://addons.opera.com/fr/extensions/details/tab-suspender-tab-unloader/)                                    | [Link](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)       | I didn't find an equivalence                                                                                                         |
 
-## Autre outils
+## Other tools
 
 |                                                       | Opera                                                                                                                                         | Chrome                                                                                                       | Firefox                                                                                                                              |
 | :---------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
@@ -57,7 +57,7 @@
 | **Wappalyzer**                                        | Use Chrome extension downloadable with [Install Chrome Extensions](https://addons.opera.com/fr/extensions/details/install-chrome-extensions/) | https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                       | [Link](https://addons.mozilla.org/fr/firefox/addon/wappalyzer/)
 | **XV — XML Viewer**                                   | Use Chrome extension downloadable with [Install Chrome Extensions](https://addons.opera.com/fr/extensions/details/install-chrome-extensions/) | https://chrome.google.com/webstore/detail/view-xml/geikflidhgdlfgmfoheimkibmodlipeh)                         | [Link](https://addons.mozilla.org/fr/firefox/addon/xml-viewer/)
 
-## Référencement
+## SEO
 
 |                                                       | Opera                                                                                                                                         | Chrome                                                                                                       | Firefox                                                                                                                              |
 | :---------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
@@ -69,7 +69,7 @@
 | **Trends Everywhere - Never miss a trend**            | Use Chrome extension downloadable with [Install Chrome Extensions](https://addons.opera.com/fr/extensions/details/install-chrome-extensions/) | [Link](https://chrome.google.com/webstore/detail/trends-everywhere-never-m/blilbgcjmmpbcjiopbifnoopnpfhdipg) | I didn't find an equivalence                                                                                                         |
 | **Ubersuggest**                                       | Use Chrome extension downloadable with [Install Chrome Extensions](https://addons.opera.com/fr/extensions/details/install-chrome-extensions/) | [Link](https://chrome.google.com/webstore/detail/ubersuggest/nmpgaoofmjlimabncmnmnopjabbflegf)               | I didn't find an equivalence                                                                                                         |
 
-## Vie privée
+## Privacy
 
 |                                                       | Opera                                                                                                                                         | Chrome                                                                                                       | Firefox                                                                                                                              |
 | :---------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
