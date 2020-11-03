@@ -65,7 +65,6 @@
 | **Insomnia**                   | [REST APPI explorer](https://updates.insomnia.rest/downloads/windows/latest)        | [REST APPI explorer](https://support.insomnia.rest/article/23-installation#linux)  | [REST API Explorer](https://updates.insomnia.rest/downloads/mac/latest) or use brew `brew cask install insomnia` |
 | **MongoDB Compass**            | [Download it](https://www.mongodb.com/try/download/compass#mongodb-shell)           | [Download it](https://www.mongodb.com/try/download/compass#mongodb-shell)          | [Download it](https://www.mongodb.com/try/download/compass#mongodb-shell)                                        |
 | **Yarn**                       | [Download it](https://classic.yarnpkg.com/fr/docs/install/)                         | [Download it](https://classic.yarnpkg.com/fr/docs/install/)                        | [Download it](https://classic.yarnpkg.com/fr/docs/install/)                                                      |
-| **Node.JS**                    | [Download it](https://nodejs.org/en/download/)                                      | [Download it](https://nodejs.org/en/download/)                                     | [Download it](https://nodejs.org/en/download/)                                                                   |
 
 
 ## Web Browsers
