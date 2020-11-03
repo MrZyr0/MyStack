@@ -42,7 +42,7 @@
 
 - [Discord](https://discord.com/download), for all platform
 - [Microsoft Teams](https://www.microsoft.com/fr-fr/microsoft-365/microsoft-teams/download-app), for al platform
-- [Slack](slack.com/intl/fr-fr/downloads), for all platform
+- [Slack](https://slack.com/intl/fr-fr/downloads), for all platform
 
 ## Dev
 
