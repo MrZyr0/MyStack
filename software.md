@@ -26,6 +26,9 @@
 | **VLC**                                                | [Download it](https://www.videolan.org/vlc/download-windows.html)                      | [Download it](https://www.videolan.org/vlc/#download)                           | [Download it](https://www.videolan.org/vlc/download-macosx.html)                  |
 | **Quick view files**                                   | [QuickLook](https://www.microsoft.com/fr-fr/p/quicklook/9nv4bs3l1h4s)<br />with [plugins](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins)                  | _no equivalent for linux_                                                       | _native_                                                                          |
 | **SCRCPY - Android screen miroring**                   | [Download it](https://github.com/Genymobile/scrcpy#windows)                            | [Download it](https://github.com/Genymobile/scrcpy#linux)                       | [Download](https://github.com/Genymobile/scrcpy#macos)                            |
+| **Backup** | I only use ondrive | [Timeshift](https://github.com/teejee2008/timeshift) | Onedrive + Time Machine |
+| **Launcher** | I use Windows 10 search. I used [Ueli](https://ueli.app) but I found it too slow. | [Ulauncher](https://github.com/Ulauncher/Ulauncher) | [Alfred](https://www.alfredapp.com) |
+| **Mobile connexion** | [Your phone](https://www.microsoft.com/en-us/p/your-phone/9nmpj99vjbwv) | [KDE Connect](https://kdeconnect.kde.org) | Native for iPhone and [KDE Connect for Android](https://kdeconnect.kde.org) |
 
 ### Windows only
 - [**Show Key Plus**](https://github.com/Superfly-Inc/ShowKeyPlus/releases), to view Windows Licence Key
@@ -67,6 +70,13 @@
 | **Yarn**                       | [Download it](https://classic.yarnpkg.com/fr/docs/install/)                         | [Download it](https://classic.yarnpkg.com/fr/docs/install/)                        | [Download it](https://classic.yarnpkg.com/fr/docs/install/)                                                      |
 | **PHP** | [Download Page](https://www.php.net/downloads) | [Download Page](https://www.php.net/downloads) | [Download Page](https://www.php.net/downloads) |
 
+### Terminal
+|                                | Windows                                                                             | Linux                                                                              | Mac OS                                                                                                           |
+| ------------------------------ | :---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **ZSH** | --- | [zsh](https://doc.ubuntu-fr.org/zsh) | [setup with iTerm](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html) |
+| **Oh My ZSH** | --- | [ohmyz.sh](https://ohmyz.sh) with theme `cobalt3` | [ohmyz.sh](https://ohmyz.sh) with theme `cobalt3` |
+| **The Fuck** | --- | [Installation](https://github.com/nvbn/thefuck#installation) | [Installation](https://github.com/nvbn/thefuck#installation) |
+
 ## Web Browsers
 
 - Firefox Developpers
@@ -80,6 +90,7 @@
 
 - [Java](https://www.java.com/download/manual.jsp)
 - [Logitech Option](https://www.logitech.fr/product/options)
+- [Andbox](https://anbox.io)
 
 ## Office Softwares
 
