@@ -69,6 +69,7 @@
 | **MongoDB Compass**            | [Download it](https://www.mongodb.com/try/download/compass#mongodb-shell)           | [Download it](https://www.mongodb.com/try/download/compass#mongodb-shell)          | [Download it](https://www.mongodb.com/try/download/compass#mongodb-shell)                                        |
 | **Yarn**                       | [Download it](https://classic.yarnpkg.com/fr/docs/install/)                         | [Download it](https://classic.yarnpkg.com/fr/docs/install/)                        | [Download it](https://classic.yarnpkg.com/fr/docs/install/)                                                      |
 | **PHP** | [Download Page](https://www.php.net/downloads) | [Download Page](https://www.php.net/downloads) | [Download Page](https://www.php.net/downloads) |
+| **Jetbrain Mono Font** | [Download it](https://www.jetbrains.com/lp/mono/) | [Download it](https://www.jetbrains.com/lp/mono/) | [Download it](https://www.jetbrains.com/lp/mono/) |
 
 ### Terminal
 |                                | Windows                                                                             | Linux                                                                              | Mac OS                                                                                                           |
