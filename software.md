@@ -38,8 +38,8 @@
 ## Creation
 
 - [Adobe Creative Cloud](https://www.adobe.com/fr/creativecloud/desktop-app.html), for Windows and MacOS
+- [Paint.net](https://www.getpaint.net/download.html), only for Windows with [PSD plugin](https://www.psdplugin.com)
 - [Kryta](https://krita.org/fr/telechargement/krita-desktop/), for all platform
-- [Paint.net](https://www.getpaint.net/download.html), only for Windows
 
 ## Communication
 
