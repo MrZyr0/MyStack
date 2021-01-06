@@ -100,6 +100,7 @@
 | **Office Suite**               | [Microsoft 365](https://www.office.com) or [LibreOffice](https://libreoffice.org/download/download/) | [LibreOffice](https://libreoffice.org/download/download/)                          | [Microsoft 365](https://www.office.com) or [LibreOffice](https://libreoffice.org/download/download/)             |
 | **Microsoft Visio**            | ---                                                                                                  |                                                                                    |                                                                                                                  |
 | **Antidote**                   | [Official website](https://www.antidote.info/)                                                       | [Official website](https://www.antidote.info/)                                     | [Official website](https://www.antidote.info/)                                                                   |
+| **Languagetool - Grammar and Spell Checker**                   | [Office addon](https://appsource.microsoft.com/product/office/wa104381727)                           | [Office addon](https://appsource.microsoft.com/product/office/wa104381727)         | [Office addon](https://appsource.microsoft.com/product/office/wa104381727)                                       |
 
 ## Screen recording
 
