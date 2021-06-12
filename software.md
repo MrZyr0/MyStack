@@ -29,6 +29,7 @@
 | **Backup** | I only use ondrive | [Timeshift](https://github.com/teejee2008/timeshift) | Onedrive + Time Machine |
 | **Launcher** | I use Windows 10 search. I used [Ueli](https://ueli.app) but I found it too slow. | [Ulauncher](https://github.com/Ulauncher/Ulauncher) | [Alfred](https://www.alfredapp.com) |
 | **Mobile connexion** | [Your phone](https://www.microsoft.com/en-us/p/your-phone/9nmpj99vjbwv) | [KDE Connect](https://kdeconnect.kde.org) | Native for iPhone and [KDE Connect for Android](https://kdeconnect.kde.org) |
+| **Bluetooth disable connexion while sleeping** | _Doesn't need_ | _Doesn't need_ | [Bluesnooze](https://github.com/odlp/bluesnooze/) |
 
 ### Windows only
 - [**Show Key Plus**](https://github.com/Superfly-Inc/ShowKeyPlus/releases), to view Windows Licence Key
