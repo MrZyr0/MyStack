@@ -122,6 +122,7 @@ alias code="codium"
 alias edit="codium"
 alias finder="open"
 alias copydirpath="copydir"
+alias vi="vim"
 
 # Docker plugin config
 zstyle ':completion:*:*:docker:*' option-stacking yes
