@@ -118,3 +118,17 @@
 - [Rockstar Launcher](https://fr.socialclub.rockstargames.com/rockstar-games-launcher)
 - [Steam](https://store.steampowered.com/about)
 - [Uplay](https://uplay.ubisoft.com)
+
+## System / Software configuration
+
+### MacOS
+
+#### Use TouchID for sudo
+
+1. From Finter, click on “Go” in the menu navigate down to “Go to Folder”. Paste the following into the Go To Folder popup: `/etc/pam.d/`
+2. One click on the file named `sudo` to highlight it and press CMD + I
+3. Expend "Sharing & Permission" and click on the padlock to temporarily change the file permissions.
+4. Change the privileges of `system` to "Read & Write".
+5. Open the sudo file in VIM (or equivalent) and replace the third param on the ligne 2 by `pam_tid.so` to get this `auth sufficient pam_tid.so`.
+6. Save, exit and close your terminal
+7. Revert the original permission before close the finder window and try to use `sudo` in a new terminal window.
