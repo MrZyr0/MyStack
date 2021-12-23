@@ -1,0 +1,9 @@
+# Syntaxic higlighting
+# Get required config file here : https://github.com/scopatz/nanorc
+
+# Config
+set autoindent # Auto indent according to brackets
+set linenumbers # Display line numbers ruler
+set mouse # Enable mouse support
+set softwrap
+set tabsize 2
