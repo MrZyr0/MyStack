@@ -83,6 +83,7 @@
 | **Never-Consent**                                     | [Link](https://addons.opera.com/extensions/details/minimal-consent/)                                                                          | [Link](https://chrome.google.com/webstore/detail/never-consent/pgahndjfiejekcbidhejmpplgdhejdpb)             | [Link](https://addons.mozilla.org/firefox/addon/never-consent/)                                                                      |
 | **I don't care about cookies**                        | [Link](https://addons.opera.com/extensions/details/i-dont-care-about-cookies/)                                                                | [Link](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) | [Link](https://addons.mozilla.org/firefox/addon/i-dont-care-about-cookies/)                                                          |
 | **Adnauseam**                        | [Link](https://adnauseam.io)                                                                | [Link](https://adnauseam.io) | [Link](https://adnauseam.io)                                                          |
+| [**AdGuard**](https://adguard.com/en/products.html) | | |
 
 
 ## Shopping
