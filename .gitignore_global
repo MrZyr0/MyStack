@@ -1,5 +1,9 @@
+#ignore thumbnails created by MacOS
+.DS_Store
+
 #ignore thumbnails created by windows
 Thumbs.db
+
 #Ignore files build by Visual Studio
 *.obj
 *.exe
@@ -23,6 +27,4 @@ Thumbs.db
 *.sbr
 
 #Ignore files build by Visual Studio Code
-.code-workspace
-#ignore thumbnails created by MacOS
-.DS_Store
+*.code-workspace
