@@ -1,0 +1,6 @@
+user.name=MrZyr0
+user.email=32927775+MrZyr0@users.noreply.github.com
+user.signingkey=XXXX
+commit.gpgsign=true
+gpg.program=/opt/homebrew/bin/gpg
+core.excludesfile=/Users/julien/.gitignore_global
