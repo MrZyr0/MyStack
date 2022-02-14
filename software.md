@@ -4,6 +4,7 @@
 
 ### Windows
 - [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker)
+- [Microsoft Powertoys](https://docs.microsoft.com/fr-fr/windows/powertoys/)
 
 
 ## Utilities
