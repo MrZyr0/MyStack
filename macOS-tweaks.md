@@ -10,6 +10,8 @@
 6. Save, exit and close your terminal
 7. Revert the original permission before close the finder window and try to use `sudo` in a new terminal window.
 
+Or do it in one command line with : `sudo echo " auth       sufficient     pam_tid.so" >> /etc/pam.d/sudo`
+
 
 ## Speed up dock animations
 
